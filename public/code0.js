@@ -53,7 +53,7 @@ isConditionTrue_0 = false;
 isConditionTrue_0 = gdjs.evtTools.input.isMouseButtonPressed(runtimeScene, "Left");
 if (isConditionTrue_0) {
 isConditionTrue_0 = false;
-{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(13052596);
+{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(13509204);
 }
 }
 }
@@ -72,7 +72,7 @@ isConditionTrue_0 = false;
 isConditionTrue_0 = gdjs.evtsExt__Gamepads__C_Any_Button_pressed.func(runtimeScene, 1, (typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : undefined));
 if (isConditionTrue_0) {
 isConditionTrue_0 = false;
-{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(13053188);
+{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(13509796);
 }
 }
 if (isConditionTrue_0) {
